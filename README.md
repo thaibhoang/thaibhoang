@@ -40,6 +40,20 @@ I am a Middle Software Engineer with **3+ years of experience** building scalabl
 - **Dynamic Logic:** Developed a **Dynamic Logic Engine** allowing real-time scripting of AI behaviors and mode switching.
 - **Media Streaming:** Integrated **FFmpeg** with **Node.js** to broadcast synchronized audio/video streams to YouTube.
 
+### 🚕 AINORY | Social Taxi Carpool Matching Platform
+*A community-driven O2O platform optimizing urban mobility through real-time carpool matching.*
+- **Matching Engine:** Developed complex logic for trip offers and join requests, ensuring transactional integrity across multiple passengers.
+- **Real-time Coordination:** Utilized **ActionCable** to implement live event handling for trip status updates and match confirmations..
+- **Spatial Optimization:** Optimized **PostgreSQL** queries and data handling to ensure low-latency trip matching during peak commute hours.
+- **Async Workflows:** Integrated **Sidekiq** and **Redis** to manage background tasks like trip expirations and automated coordination reminders.
+
+### 🤖 Listtool | Automated Lead Generation & Form Submission
+*A B2B automation engine for web crawling, lead management, and automated outreach.*
+- **Automation Engine:** Engineered an intelligent **Automated Form Filler** that maps dynamic templates to varying web fields using pattern recognition.
+- **Web Scraping:** Built a robust scraping and parsing engine using **Selenium** to extract contact data and identify third-party form structures.
+- **Data Architecture:** Designed an **MVC-based schema** to manage complex relationships between leads, templates, and multi-channel campaigns.
+- **Performance:** Optimized email delivery workflows and data validation layers to maximize success rates for high-volume automated outreach.
+
 ---
 
 ## 📫 Contact Info
