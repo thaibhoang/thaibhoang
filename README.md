@@ -57,7 +57,8 @@ I am a Middle Software Engineer with **3+ years of experience** building scalabl
 ---
 
 ## 📫 Contact Info
-- 📞 **Phone:** (+84) 37-289-4050
-- 📧 **Email:** [hoangthai.ftu53@gmail.com](mailto:hoangthai.ftu53@gmail.com)
-- 💼 **LinkedIn:** [Bùi Hoàng Thái](https://www.linkedin.com/in/th%C3%A1i-b%C3%B9i-ho%C3%A0ng-168bb9252/)
-- 📍 **Location:** Dinh Cong, Hanoi, Vietnam
+- **Website**: https://buihoangthai.com/contact
+- **Phone:** (+84) 37-289-4050
+- **Email:** [hoangthai.ftu53@gmail.com](mailto:hoangthai.ftu53@gmail.com)
+- **LinkedIn:** [Bùi Hoàng Thái](https://www.linkedin.com/in/th%C3%A1i-b%C3%B9i-ho%C3%A0ng-168bb9252/)
+- **Location:** Dinh Cong, Hanoi, Vietnam
